@@ -13,9 +13,9 @@
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
-		"dotenv": "^8.2.0",
+		"dotenv": "^9.0.2",
 		"express": "^4.17.1",
-		"knex": "^0.95.2",
+		"knex": "^0.95.5",
 		"sqlite3": "^5.0.0"
 	}
 }
