@@ -2,6 +2,7 @@
 	"private": true,
 	"scripts": {
 		"test": "jest",
+		"test:watch": "jest --verbose --watch",
 		"server": "nodemon index.js",
 		"start": "node index.js"
 	},
